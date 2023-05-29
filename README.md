@@ -8,4 +8,4 @@
 - 📫 Send me a PM to connect
 
 Languages I speak
-HTML5 CSS3 Liquid
+HTML5 CSS3 JavaScript Liquid
